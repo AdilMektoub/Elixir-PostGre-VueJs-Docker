@@ -1,0 +1,4 @@
+# pour eviter de copié les modules locaux et log sur l'image docker
+node_modules
+.git
+.gitignore
